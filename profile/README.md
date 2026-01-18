@@ -24,9 +24,9 @@
 
 [1]: https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Wabtey&theme=dark&layout=compact&role=ORGANIZATION_MEMBER
 
-[2]: https://github-readme-stats.vercel.app/api/pin/?username=Elzapat&repo=fabien-et-la-trahison-de-olf&theme=dark
-[3]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=fight_arena&theme=dark
-[4]: https://github-readme-stats.vercel.app/api/pin/?username=Elzapat&repo=b-hunt&theme=dark
-[5]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=bevy_turn-based_combat&theme=dark
-[6]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=cats_destroyer_2000&theme=dark
-[7]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=grandstand-gauntlet&theme=dark
+[2]: https://github-readme-stats-b5wj.vercel.app/api/pin/?username=Fabinistere&repo=fabien-et-la-trahison-de-olf&theme=dark
+[3]: https://github-readme-stats-b5wj.vercel.app/api/pin/?username=Fabinistere&repo=fight_arena&theme=dark
+[4]: https://github-readme-stats-b5wj.vercel.app/api/pin/?username=Elzapat&repo=b-hunt&theme=dark
+[5]: https://github-readme-stats-b5wj.vercel.app/api/pin/?username=Fabinistere&repo=bevy_turn-based_combat&theme=dark
+[6]: https://github-readme-stats-b5wj.vercel.app/api/pin/?username=Fabinistere&repo=cats_destroyer_2000&theme=dark
+[7]: https://github-readme-stats-b5wj.vercel.app/api/pin/?username=Fabinistere&repo=grandstand-gauntlet&theme=dark
